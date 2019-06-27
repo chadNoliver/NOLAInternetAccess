@@ -1,2 +1,2 @@
 # NOLAInternetAccess
-Mapping New Orleans Internet Access Data from ACS/CPS
+Mapping New Orleans Internet Access/Computer Use Data from ACS/CPS 
